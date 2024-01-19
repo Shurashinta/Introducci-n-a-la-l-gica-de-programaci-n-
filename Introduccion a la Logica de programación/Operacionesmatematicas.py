@@ -3,6 +3,8 @@
 numero1 = float(input("ingresa un numero:")) 
 numero2 = float(input("ingresa un numero:"))
 
+PI = 3.1416 # Declarar, crear o instanciar una constante
+
 
 # Importar librerias
 import math
