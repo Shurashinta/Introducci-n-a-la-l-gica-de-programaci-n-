@@ -16,9 +16,9 @@ fahrenheit2 = ((9 * grados) / 5) +32
 
 
 # Salida de datos
-print ("Los grados son =", celsius1)
-print ("los grados son =", fahrenheit1)
-print ("los grados son =", celsius2)
-print ("los grados son =", kelvin1)
-print ("los grados son =", kelvin2)
-print ("los grados son =", fahrenheit2)
+print ("Los grados son =", round(celsius1, 2))
+print ("los grados son =", round(fahrenheit1, 2))
+print ("los grados son =", round(celsius2, 2))
+print ("los grados son =", round(kelvin1, 2))
+print ("los grados son =", round(kelvin2, 2))
+print ("los grados son =", round(fahrenheit2, 2))
