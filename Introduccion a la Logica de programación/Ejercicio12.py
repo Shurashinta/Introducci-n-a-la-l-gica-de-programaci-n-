@@ -28,5 +28,6 @@ números.append("4153")
 
 # Ordenar una lista
 números.sort()
+# números.sort(reverse=True)
 
 print("NÚMEROS:", números)
