@@ -32,7 +32,7 @@ else:
 print("3. Instituciones encargadas de estandarizar reglas y simbología de los Diagramas de Flujo.")
 print("a) IEEE     b) IDE     c) ANSI/ISO     d) VSCode")
 respuesta = input()
-if (respuesta == "b"):
+if (respuesta == "c"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -41,7 +41,7 @@ else:
 print("4. Serie de pasos consecutivos, ordenados y finitos que se siguen para resolver un problema.")
 print("( a) Proceso     b) Solución     c) Función     d) Algoritmo)")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "d"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -50,7 +50,7 @@ else:
 print("5. Conjunto de elementos que se relacionan para cumplir una función determinada.")
 print("a) Estructura     b) Datos     c) Operación     d) Sistema")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "d"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -59,7 +59,7 @@ else:
 print("6. Componente de un IDE que se encarga de traducir el código fuente a código máquina.")
 print("a) Depurador     b) Editor de Texto     c) Terminal de Salida     d) Compilador/Intérprete")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "d"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -77,7 +77,7 @@ else:
 print("8. Conjunto de símbolos, letras, números que no tienen un significado.")
 print("a) Datos     b) Estructura     c) Información     d) Sistema")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "a"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -104,7 +104,7 @@ else:
 print("11. Conjunto de elementos ordenados que componen y son la base de algo físico o no físico.")
 print("a) Estructura     b) Sistema     c) Objeto     d) Virtual")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "a"):
         print("Correcto")
         aciertos = aciertos + 1
 else:
@@ -113,7 +113,7 @@ else:
 print("12. Conjunto de instrucciones (código) que indican a la computadora tareas a realizar.")
 print("a) Operaciones/Cálculos     b) Sintaxis     c) Programa de Computadora     d) Comando")
 respuesta = input("Marca la opción correcta")
-if (respuesta == "b"):
+if (respuesta == "d"):
         print("Correcto")
         aciertos = aciertos + 1
 else:

@@ -14,12 +14,7 @@ if(num < 0 and num > -100):
 elif(num == 0 or num <= -100 or num >= 100):
     print("No valido")
 if(num > 0 and num < 100):
-    h = 0 
-    while(h <= 100):
+    h = 0
+    while(0 <= 100):
         print("Pares", h)
         h = h + 2
-if(num > 0 and num < 100):
-    h = 0 
-    while(h <= 100):
-        print("Novalidos", h)
-        h = h + 3
